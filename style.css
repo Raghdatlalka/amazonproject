@@ -1,0 +1,94 @@
+.continer{
+    width: 1350px;
+    height:700px;
+    margin: 10px auto;
+    background-color: rgb(255, 255, 255);
+    padding:  10px auto;
+    border: solid 1px;
+}
+
+.read{
+    display: flex;
+}
+.chi{
+    padding: 10px 25px;
+box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+    
+
+}
+.child{
+    
+   background-color: rgb(254, 254, 248); 
+display:flexbox;
+    width: 450px ;
+    height: 600px;
+    padding: 49px;
+  /*/  margin: 10px ;/*/
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+
+    border-radius: 10px;
+    text-align: left;  
+}
+
+h1{
+    color: red;
+}
+.child2{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: 450px ;
+    height:600px;
+    padding: 10px;
+    margin: 10px;
+.img{
+    display: flex;
+padding: 20px auto;
+margin:20px;
+}
+.img1{
+    display: flex;
+padding: 20px auto;
+margin:20px;
+}
+    text-align: left; 
+}
+h3
+{color: rgb(5, 106, 5);}
+h5{
+    color: rgb(80, 80, 208);
+}
+.child3{
+    h3  {
+        color: rgb(80, 235, 80);
+        
+          }
+    background-color: rgb(254, 254, 248); 
+display:flexbox;
+    width: 450px ;
+    height: 600px;
+    padding: 49px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+
+    border-radius: 10px;
+    text-align: left; 
+
+
+}
+.button {
+    background-color: #1e9c2d; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 0 auto;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  body{
+    background-color: rgb(14, 14, 110);
+  }
